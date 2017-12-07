@@ -10,11 +10,19 @@ reaching zero health or falling off the bottom of the stage.
 Scaling upwards may cause significant performance drops.
 
 IMAGE ASSETS:
+
 Player Character: https://www.assetstore.unity3d.com/en/#!/content/938974
+
 Slime/Land Monster: https://opengameart.org/content/bevouliin-pink-monster-sprites
+
 Penguin Sprite: https://www.spriters-resource.com/pc_computer/maplestory/sheet/21698/
+
 Ghost Sprite: https://www.spriters-resource.com/pc_computer/maplestory/sheet/21771/
+
 Background: https://deejayautumnkay.deviantart.com/art/El-Nath-268979628
+
 Portal: http://pt-br.grandchase.wikia.com/wiki/Arquivo:Portal_da_Rey.png
+
 Tiles: https://www.spriters-resource.com/pc_computer/maplestory/sheet/21907/
+
 **NONE OF THESE IMAGES BELONG TO ME AND ALL RIGHTS ARE RESERVED TO RESPECTIVE OWNERS**
