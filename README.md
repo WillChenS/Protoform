@@ -2,9 +2,8 @@
 Basic platformer (a la Mario/Sonic) 
 
 Modeled after classic running/jumping platformers like Mario, this game takes place in a series of odd, snowy landscapes populated
-with several goofy monsters (thanks to my sprite providers). The player is a swordsman, who can swing his blade to attack, jump,
-and run. Portals mark scene shift points, and reaching the final portal is a win. PLayer takes damage by colliding with enemies, dying upon
-reaching zero health or falling off the bottom of the stage.
+with several goofy monsters (credits to my sprite providers). The player is a swordsman, who can swing his blade to attack, jump,
+and run. Portals mark scene shift points, and reaching the final portal is a win. The player takes damage by colliding with enemies, dying upon reaching zero health or falling off the bottom of the stage.
 
 *Game is ran at around 100 FPS and is not as efficient with collisions as it could be. 
 Scaling upwards may cause significant performance drops.
