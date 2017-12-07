@@ -95,7 +95,7 @@ public abstract class MovingSprite extends Sprite {
 			super.setYSpeed(-jumpPower);
 			currentState = jumping;
 		}
-		else super.setYSpeed(-jumpPower);
+		else if (getYSpeed() == 0) super.setYSpeed(-jumpPower);
 		correctExpansion();
 	}
 
